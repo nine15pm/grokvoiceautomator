@@ -1,4 +1,4 @@
-# GrokAutomation
+# Grok Voice Automation
 
 Automate Grok.com voice testing: CSV prompts → TTS → voice chat → capture responses.
 
